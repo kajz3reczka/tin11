@@ -1,7 +1,11 @@
 {
   "motorcycles": [
-      "Honda shadow",
-      "Harley Davidson Iron 883",
-      "Yamaha R6"
+    {
+      id: "Honda shadow"
+    },{
+      id: "Harley Davidson Iron 883"
+    },{
+      id: "Yamaha R6"
+    }
   ]
 }
