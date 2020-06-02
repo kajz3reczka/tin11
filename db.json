@@ -1,16 +1,13 @@
 {
   "motorcycles": [
     {
-      "id": 1,
-      "title": "Honda shadow"
+      "Honda shadow"
     },
     {
-      "id": 2,
-      "title": "Harley Davidson Iron 883"
+      "Harley Davidson Iron 883"
     },
     {
-      "id": 3,
-      "title": "Yamaha R6"
+      "Yamaha R6"
     }
   ]
 }
