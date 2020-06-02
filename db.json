@@ -1,13 +1,7 @@
 {
   "motorcycles": [
-    {
-      "Honda shadow"
-    },
-    {
-      "Harley Davidson Iron 883"
-    },
-    {
+      "Honda shadow",
+      "Harley Davidson Iron 883",
       "Yamaha R6"
-    }
   ]
 }
